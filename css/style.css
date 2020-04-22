@@ -61,6 +61,7 @@ h4 {
 }
 img {
   border: 5px solid;
+  box-sizing : border-box;
 
 }
 body {
