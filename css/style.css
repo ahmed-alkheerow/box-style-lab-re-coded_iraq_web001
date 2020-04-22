@@ -55,5 +55,6 @@ h4 {
   width: 303%;
 }
 img {
-  border: solid
+  border: 5px rgb(125,173,166) solid;
+  
 }
